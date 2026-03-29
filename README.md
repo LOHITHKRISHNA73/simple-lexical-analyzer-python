@@ -32,3 +32,7 @@ x          --> Identifier
 =          --> Operator
 10         --> Integer
 ;          --> Symbol
+
+## Output Screenshot
+
+![Lexer Output](output.png)
